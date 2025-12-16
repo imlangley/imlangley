@@ -1,59 +1,86 @@
 <div align="center">
-<img width="30%" height = "30%" src="https://akmweb.youngjoygame.com/web/kylearchangel/image/d13de143d7ae78e2aff421fe78845187.jpg" alt="cover" />
+
+# Hey, I'm Langley 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9D72FF&center=true&vCenter=true&random=false&width=500&lines=Web+Developer;Video+Editor;Motion+Graphics+Artist;Crafting+Digital+Experiences)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-langley.page-9D72FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://langley.page)
+[![Shop](https://img.shields.io/badge/Shop-langley.page/shop-FF6B6B?style=for-the-badge&logo=shopify&logoColor=white)](https://langley.page/shop)
+[![GitHub](https://img.shields.io/badge/GitHub-imlangley-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imlangley)
+
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
+---
 
-![visitors](https://api.visitorbadge.io/api/VisitorHit?user=Rhin6z&repo=github-visitors-badge)
+### 🚀 About Me
 
-</p>
-<div size='20px'> Hi! My name is Gilang. Thank You for taking the time to view my GitHub Profile 
+```javascript
+const langley = {
+  role: ["Web Developer", "Video Editor"],
+  code: ["JavaScript", "TypeScript", "Python", "PHP"],
+  tools: ["React", "Next.js", "After Effects", "Premiere Pro"],
+  passion: "Crafting clean and modern digital experiences",
+  currentFocus: "Building websites & editing videos",
+  availableFor: "Commissions & Collaborations"
+};
+```
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+#### Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### Creative Suite
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+---
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+### 📊 GitHub Stats
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imlangley&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D72FF&icon_color=9D72FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlangley&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D72FF&text_color=FFFFFF"/>
+</div>
 
-- 🔭 I’m currently working on Github Projects and open for Internship Opportunities.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imlangley&theme=tokyonight&hide_border=true&background=0D1117&ring=9D72FF&fire=9D72FF&currStreakLabel=9D72FF"/>
+</div>
 
-- 🌱 I’m currently learning Data Science, Nextjs, Nodejs etc... 
+---
 
-- 👯 I’m looking to collaborate on projects, tech articles... 
+<div align="center">
 
-- 💬 Talk to me about Python, JavaScript, Internship Opportunities, Open Source... 
+### 💬 Let's Connect!
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/Rhin6z?tab=repositories&q=&type=&language=arduino&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
-<a href= https://github.com/Rhin6z?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Rhin6z?tab=repositories&q=&type=&language=discord&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
-<a href= https://github.com/Rhin6z?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
-<a href= https://github.com/Rhin6z?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Rhin6z?tab=repositories&q=&type=&language=laravel&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
-<a href= https://github.com/Rhin6z?tab=repositories&q=&type=&language=mariadb&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mariadb.svg'> </a>
-<a href= https://github.com/Rhin6z?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/Rhin6z?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/Rhin6z?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
-<a href= https://github.com/Rhin6z?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Rhin6z?tab=repositories&q=&type=&language=wordpress&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'> </a>
+*Open for commissions, collaborations, and interesting projects*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-langley.page-9D72FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://langley.page)
+[![Contact](https://img.shields.io/badge/Contact-Get_in_Touch-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](https://langley.page/contact)
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<a href = 'rhinz.tech'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/Rhin6z'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<br/>
 
+![Visitors](https://komarev.com/ghpvc/?username=imlangley&color=9D72FF&style=for-the-badge&label=PROFILE+VIEWS)
 
+</div>
 
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Rhin6z&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhin6z&theme=tokyonight" />
-</a>
-
-
-
-<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D72FF&height=100&section=footer"/>
+</div>
