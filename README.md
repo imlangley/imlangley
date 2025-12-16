@@ -59,7 +59,7 @@ const langley = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imlangley&theme=tokyonight&hide_border=true&background=0D1117&ring=9D72FF&fire=9D72FF&currStreakLabel=9D72FF"/>
+  <img src="https://streak-stats.demolab.com/?user=imlangley&theme=tokyonight&hide_border=true&background=0D1117&ring=9D72FF&fire=9D72FF&currStreakLabel=9D72FF"/>
 </div>
 
 ---
