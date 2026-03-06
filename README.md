@@ -30,8 +30,8 @@
 <td width="50%" valign="top">
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=imlangley&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D72FF&icon_color=9D72FF&text_color=FFFFFF&hide_title=true&hide_rank=true&custom_title=Stats&line_height=24"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlangley&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D72FF&text_color=FFFFFF&hide_title=true&langs_count=4"/>
+<img src="./profile/stats.svg"/>
+<img src="./profile/top-langs.svg"/>
 
 </td>
 </tr>
